@@ -13,6 +13,17 @@ def NumberofHouse(r, unit, arr):
         else:
             return 0:
 print(NumberofHouse(7,2,[2,8,3,5,4,1,2]))
+
+
+
+
+
+
+
+
+
+n=input("enter the name")
+print(n)
             
         
     
